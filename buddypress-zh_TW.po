@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2013-08-11 00:03+0800\n"
+"PO-Revision-Date: 2013-11-04 20:27+0800\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -27,7 +27,7 @@ msgstr "多行欄位"
 
 #: bp-xprofile/bp-xprofile-classes.php:946
 msgid "Multi Fields"
-msgstr ""
+msgstr "多行欄位"
 
 #: bp-core/bp-core-admin.php:552
 msgid "Core Contributors to BuddyPress 1.8"
@@ -108,7 +108,7 @@ msgstr ""
 
 #: bp-activity/bp-activity-actions.php:611
 msgid "Activity feed of %s's favorites."
-msgstr ""
+msgstr "被%s標記為收藏的留言"
 
 #: bp-activity/bp-activity-actions.php:502
 msgid "Activity feed for %s's friends."
@@ -138,11 +138,11 @@ msgstr ""
 
 #: bp-forums/deprecated/1.6.php:88 bp-forums/deprecated/1.6.php:231
 msgid "New! bbPress"
-msgstr ""
+msgstr "bbPress 的新功能！"
 
 #: bp-forums/deprecated/1.6.php:34 bp-forums/deprecated/1.6.php:136
 msgid "Install bbPress"
-msgstr ""
+msgstr "安裝 bbPress"
 
 #: bp-forums/deprecated/1.6.php:94 bp-forums/deprecated/1.6.php:237
 msgid "Non-group specific forum creation"
@@ -376,11 +376,11 @@ msgstr ""
 
 #: bp-core/bp-core-admin.php:402
 msgid "Getting Started"
-msgstr ""
+msgstr "新手上路"
 
 #: bp-core/bp-core-admin.php:405
 msgid "Your Default Setup"
-msgstr ""
+msgstr "您的預設設定"
 
 #: bp-core/bp-core-admin.php:414
 msgid "Community and Support"
@@ -419,12 +419,12 @@ msgstr ""
 #: bp-core/bp-core-functions.php:325
 msgctxt "Page title for the user account activation screen."
 msgid "Activate"
-msgstr ""
+msgstr "啟動"
 
 #: bp-core/bp-core-functions.php:326
 msgctxt "Page title for the Members directory."
 msgid "Members"
-msgstr ""
+msgstr "成員"
 
 #: bp-core/bp-core-functions.php:327
 msgctxt "Page title for the user registration screen."
@@ -533,7 +533,7 @@ msgstr ""
 #: bp-core/admin/bp-core-schema.php:250
 msgctxt "First field-group name"
 msgid "General"
-msgstr ""
+msgstr "一般"
 
 #: bp-core/admin/bp-core-schema.php:254
 msgctxt "Display name field"
@@ -673,7 +673,7 @@ msgstr ""
 #: bp-themes/bp-default/registration/register.php:161
 msgctxt "Change profile field visibility level"
 msgid "Change"
-msgstr ""
+msgstr "更改"
 
 #: bp-groups/bp-groups-admin.php:487 bp-groups/bp-groups-admin.php:623
 msgid "Add New"
@@ -711,11 +711,11 @@ msgstr ""
 #: bp-groups/bp-groups-widgets.php:27
 msgctxt "widget name"
 msgid "(BuddyPress) Groups"
-msgstr ""
+msgstr "(BuddyPress) 群組"
 
 #: bp-xprofile/bp-xprofile-loader.php:114
 msgid "Admins Only"
-msgstr ""
+msgstr "網站管理員"
 
 #: bp-core/bp-core-filters.php:342
 msgctxt ""
@@ -764,7 +764,7 @@ msgstr ""
 
 #: bp-activity/bp-activity-screens.php:398
 msgid "Sitewide Activity"
-msgstr ""
+msgstr "整個網站的動態"
 
 #: bp-core/bp-core-caps.php:248 bp-core/bp-core-caps.php:261
 #: bp-core/bp-core-caps.php:276 bp-core/bp-core-caps.php:287
@@ -833,7 +833,7 @@ msgstr ""
 
 #: bp-groups/bp-groups-admin.php:506
 msgid "Name and Description"
-msgstr ""
+msgstr "名字與描述"
 
 #: bp-groups/bp-groups-admin.php:533
 msgid "No group found with this ID. <a href=\"%s\">Go back and try again</a>."
@@ -883,7 +883,7 @@ msgstr ""
 #: bp-groups/bp-groups-admin.php:771
 msgctxt "Group member name in group admin"
 msgid "Name"
-msgstr "名字"
+msgstr "您的全名"
 
 #: bp-groups/bp-groups-admin.php:772
 msgctxt "Group member role in group admin"
@@ -925,12 +925,12 @@ msgstr "隱藏 <span class=\"count\">(%s)</span>"
 #: bp-groups/bp-groups-admin.php:1248
 msgctxt "Groups admin Group Name column header"
 msgid "Name"
-msgstr ""
+msgstr "名稱"
 
 #: bp-groups/bp-groups-admin.php:1249
 msgctxt "Groups admin Group Description column header"
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #: bp-groups/bp-groups-admin.php:1250
 msgctxt "Groups admin Privacy Status column header"
@@ -940,7 +940,7 @@ msgstr "狀態"
 #: bp-groups/bp-groups-admin.php:1251
 msgctxt "Groups admin Members column header"
 msgid "# Members"
-msgstr ""
+msgstr "# 成員"
 
 #: bp-groups/bp-groups-admin.php:1252
 msgctxt "Groups admin Last Active column header"
@@ -1085,7 +1085,7 @@ msgstr ""
 
 #: bp-core/bp-core-admin.php:242 bp-core/bp-core-admin.php:247
 msgid "Toolbar"
-msgstr ""
+msgstr "工具列"
 
 #: bp-core/admin/bp-core-components.php:181
 msgid "Select %s"
@@ -1115,11 +1115,11 @@ msgstr[0] ""
 #: bp-core/admin/bp-core-components.php:147
 #: bp-core/admin/bp-core-components.php:155
 msgid "Component"
-msgstr ""
+msgstr "元件"
 
 #: bp-core/admin/bp-core-components.php:206
 msgid "No components found."
-msgstr ""
+msgstr "找不到元件"
 
 #: bp-settings/bp-settings-actions.php:157
 msgid "That email address is invalid. Check the formatting and try again."
@@ -1285,7 +1285,7 @@ msgstr ""
 
 #: bp-core/bp-core-admin.php:300
 msgid "Activity Settings"
-msgstr ""
+msgstr "動態設定"
 
 #: bp-activity/bp-activity-admin.php:819
 msgid "#%s"
@@ -1293,7 +1293,7 @@ msgstr ""
 
 #: bp-core/admin/bp-core-settings.php:153
 msgid "Enable BuddyPress to WordPress profile syncing"
-msgstr ""
+msgstr "讓 Buddypress與 Wordpress的個人資料同步"
 
 #: bp-core/bp-core-admin.php:276
 msgid "Groups Settings"
@@ -1309,11 +1309,11 @@ msgstr ""
 
 #: bp-core/bp-core-admin.php:239
 msgid "Main Settings"
-msgstr ""
+msgstr "主要設定"
 
 #: bp-forums/deprecated/1.6.php:97 bp-forums/deprecated/1.6.php:240
 msgid "Revisions"
-msgstr ""
+msgstr "版本記錄"
 
 #: bp-core/admin/bp-core-settings.php:87
 msgid "Allow Akismet to scan for activity stream spam"
@@ -1329,7 +1329,7 @@ msgstr "建立群組"
 
 #: bp-members/bp-members-adminbar.php:91
 msgid "Edit Member"
-msgstr ""
+msgstr "編輯會員"
 
 #: bp-activity/bp-activity-template.php:985
 msgid "Profile picture"
@@ -1597,11 +1597,11 @@ msgstr ""
 
 #: bp-core/bp-core-admin.php:185
 msgid "Help"
-msgstr ""
+msgstr "求助"
 
 #: bp-core/bp-core-admin.php:194
 msgid "BuddyPress Components"
-msgstr ""
+msgstr "Buddypress的元件"
 
 #: bp-core/admin/bp-core-functions.php:102
 msgid ""
@@ -1924,7 +1924,7 @@ msgstr ""
 #: bp-themes/bp-default/index.php:27
 msgctxt "Sticky post"
 msgid "Featured"
-msgstr ""
+msgstr "置頂"
 
 #: bp-templates/bp-legacy/buddypress/forums/index.php:98
 #: bp-themes/bp-default/forums/index.php:116
@@ -1939,12 +1939,12 @@ msgstr "回覆給："
 #: bp-templates/bp-legacy/buddypress/members/single/messages/single.php:18
 #: bp-themes/bp-default/members/single/messages/single.php:18
 msgid "Conversation between %s and you."
-msgstr ""
+msgstr "你和%s之間的對話"
 
 #: bp-templates/bp-legacy/buddypress/members/single/messages/single.php:14
 #: bp-themes/bp-default/members/single/messages/single.php:14
 msgid "You are alone in this conversation."
-msgstr ""
+msgstr "這個對話中只有您一個人而已"
 
 #: bp-templates/bp-legacy/buddypress/forums/forums-loop.php:72
 #: bp-themes/bp-default/forums/forums-loop.php:72
@@ -1954,7 +1954,7 @@ msgstr ""
 #: bp-templates/bp-legacy/buddypress/forums/forums-loop.php:61
 #: bp-themes/bp-default/forums/forums-loop.php:61
 msgid "Started by %1$s"
-msgstr ""
+msgstr "從%1$s開始"
 
 #: bp-blogs/bp-blogs-widgets.php:37 bp-blogs/bp-blogs-widgets.php:97
 msgid "Recent Networkwide Posts"
@@ -1963,11 +1963,11 @@ msgstr ""
 #: bp-templates/bp-legacy/buddypress/groups/single/forum/topic.php:81
 #: bp-themes/bp-default/groups/single/forum/topic.php:81
 msgid "%1$s said %2$s:"
-msgstr ""
+msgstr "%1$s 說 %2$s:"
 
 #: bp-groups/bp-groups-loader.php:521
 msgid "Groups <span class=\"count\">%s</span>"
-msgstr ""
+msgstr "群組 <span class=\"count\">%s</span>"
 
 #: bp-templates/bp-legacy/buddypress/activity/comment.php:27
 #: bp-themes/bp-default/activity/comment.php:30
@@ -1990,15 +1990,15 @@ msgstr ""
 
 #: bp-groups/bp-groups-loader.php:522
 msgid "Pending Invites <span class=\"count\">%s</span>"
-msgstr ""
+msgstr "等待回應的邀請 <span class=\"count\">%s</span>"
 
 #: bp-friends/bp-friends-loader.php:162
 msgid "Pending Requests <span class=\"count\">%s</span>"
-msgstr ""
+msgstr "等待回應的請求 <span class=\"count\">%s</span>"
 
 #: bp-friends/bp-friends-loader.php:161
 msgid "Friends <span class=\"count\">%s</span>"
-msgstr ""
+msgstr "好友 <span class=\"count\">%s</span>"
 
 #: bp-templates/bp-legacy/buddypress/groups/create.php:34
 #: bp-templates/bp-legacy/buddypress/groups/single/admin.php:19
@@ -2016,7 +2016,7 @@ msgstr "群組名稱(必填)"
 
 #: bp-activity/bp-activity-functions.php:1119
 msgid "%s posted an update"
-msgstr ""
+msgstr "%s 在訊息牆留言"
 
 #: bp-templates/bp-legacy/buddypress/forums/index.php:22
 #: bp-themes/bp-default/forums/index.php:40
@@ -2033,7 +2033,7 @@ msgstr "全部群組 <span>%s</span>"
 #: bp-themes/bp-default/activity/index.php:39
 #: bp-themes/bp-default/members/index.php:35
 msgid "All Members <span>%s</span>"
-msgstr ""
+msgstr "所有成員 <span>%s</span>"
 
 #: bp-messages/bp-messages-template.php:653
 msgid "Private Message"
@@ -2042,7 +2042,7 @@ msgstr ""
 #: bp-templates/bp-legacy/buddypress/forums/index.php:26
 #: bp-themes/bp-default/forums/index.php:44
 msgid "My Topics <span>%s</span>"
-msgstr ""
+msgstr "我的話題 <span>%s</span>"
 
 #: bp-templates/bp-legacy/buddypress/blogs/index.php:20
 #: bp-themes/bp-default/blogs/index.php:37
@@ -2072,7 +2072,7 @@ msgstr ""
 
 #: bp-groups/bp-groups-loader.php:451
 msgid "Members <span>%s</span>"
-msgstr ""
+msgstr "成員 <span>%s</span>"
 
 #: bp-activity/bp-activity-template.php:1336
 msgid "View Discussion"
@@ -2154,7 +2154,7 @@ msgstr ""
 
 #: bp-groups/bp-groups-widgets.php:83 bp-groups/bp-groups-widgets.php:186
 msgid "created %s"
-msgstr ""
+msgstr "%s前創立"
 
 #: bp-templates/bp-legacy/buddypress/activity/index.php:29
 #: bp-templates/bp-legacy/buddypress/members/index.php:22
@@ -2166,23 +2166,23 @@ msgstr "我的朋友 <span>%s</span>"
 #: bp-templates/bp-legacy/buddypress/blogs/index.php:16
 #: bp-themes/bp-default/blogs/index.php:33
 msgid "All Sites <span>%s</span>"
-msgstr ""
+msgstr "所有的網站 <span>%s</span>"
 
 #: bp-templates/bp-legacy/buddypress/activity/index.php:41
 #: bp-templates/bp-legacy/buddypress/groups/index.php:22
 #: bp-themes/bp-default/activity/index.php:61
 #: bp-themes/bp-default/groups/index.php:39
 msgid "My Groups <span>%s</span>"
-msgstr ""
+msgstr "我的群組 <span>%s</span>"
 
 #: bp-templates/bp-legacy/buddypress/activity/index.php:51
 #: bp-themes/bp-default/activity/index.php:71
 msgid "My Favorites <span>%s</span>"
-msgstr ""
+msgstr "我的最愛 <span>%s</span>"
 
 #: bp-activity/bp-activity-template.php:2577
 msgid "Send a public message on your activity stream."
-msgstr ""
+msgstr "在您自己的留言牆留下公開的留言"
 
 #: bp-groups/bp-groups-template.php:2812
 msgid "requested %s"
@@ -2197,7 +2197,7 @@ msgstr ""
 #: bp-templates/bp-legacy/buddypress/groups/create.php:261
 #: bp-themes/bp-default/groups/create.php:268
 msgid "Back to Previous Step"
-msgstr ""
+msgstr "回到上一步"
 
 #: bp-core/admin/bp-core-slugs.php:104 bp-core/admin/bp-core-slugs.php:167
 msgid "New Page"
@@ -2249,7 +2249,7 @@ msgstr ""
 #: bp-groups/bp-groups-loader.php:368 bp-groups/bp-groups-loader.php:398
 #: bp-groups/bp-groups-loader.php:537 bp-groups/bp-groups-loader.php:575
 msgid "Memberships"
-msgstr ""
+msgstr "群組成員"
 
 #: bp-themes/bp-default/functions.php:509
 msgid "Edit comment"
@@ -2280,7 +2280,7 @@ msgstr ""
 #: bp-themes/bp-default/groups/create.php:101
 #: bp-themes/bp-default/groups/single/admin.php:104
 msgid "Group admins and mods only"
-msgstr ""
+msgstr "只有群組管理員與板主可以"
 
 #: bp-groups/bp-groups-admin.php:681
 #: bp-templates/bp-legacy/buddypress/groups/create.php:99
@@ -2288,14 +2288,14 @@ msgstr ""
 #: bp-themes/bp-default/groups/create.php:106
 #: bp-themes/bp-default/groups/single/admin.php:109
 msgid "Group admins only"
-msgstr ""
+msgstr "只有群組管理員可以"
 
 #: bp-templates/bp-legacy/buddypress/groups/create.php:84
 #: bp-templates/bp-legacy/buddypress/groups/single/admin.php:94
 #: bp-themes/bp-default/groups/create.php:91
 #: bp-themes/bp-default/groups/single/admin.php:94
 msgid "Which members of this group are allowed to invite others?"
-msgstr ""
+msgstr "哪些人可以邀請其他人進入這個群組？"
 
 #: bp-groups/bp-groups-admin.php:679
 #: bp-templates/bp-legacy/buddypress/groups/create.php:89
@@ -2465,7 +2465,7 @@ msgstr ""
 #: bp-core/bp-core-classes.php:794
 msgid "%d group"
 msgid_plural "%d groups"
-msgstr[0] ""
+msgstr[0] "%d個群組"
 
 #: bp-loader.php:547
 msgid "BuddyPress Default"
@@ -2526,7 +2526,7 @@ msgstr ""
 #: bp-templates/bp-legacy/buddypress/activity/index.php:108
 #: bp-themes/bp-default/activity/index.php:128
 msgid "New Members"
-msgstr ""
+msgstr "新成員"
 
 #: bp-templates/bp-legacy/buddypress/activity/index.php:90
 #: bp-templates/bp-legacy/buddypress/groups/single/activity.php:14
@@ -2539,7 +2539,7 @@ msgstr ""
 
 #: bp-themes/bp-default/header.php:25
 msgid "Search for:"
-msgstr ""
+msgstr "搜尋:"
 
 #: bp-friends/bp-friends-loader.php:118 bp-friends/bp-friends-loader.php:180
 #: bp-friends/bp-friends-loader.php:207
@@ -2567,7 +2567,7 @@ msgstr ""
 #: bp-themes/bp-default/onecolumn-page.php:31 bp-themes/bp-default/page.php:20
 #: bp-themes/bp-default/single.php:30
 msgid "Pages: "
-msgstr ""
+msgstr "頁面:"
 
 #: bp-blogs/bp-blogs-functions.php:367
 msgid "%1$s commented on the post, %2$s, on the site %3$s"
@@ -2726,7 +2726,7 @@ msgstr ""
 
 #: bp-forums/bp-forums-loader.php:142
 msgid "Replied To"
-msgstr ""
+msgstr "回覆給"
 
 #: bp-templates/bp-legacy/buddypress/groups/single/forum/topic.php:9
 #: bp-themes/bp-default/groups/single/forum/topic.php:9
@@ -2806,7 +2806,7 @@ msgstr ""
 
 #: bp-themes/bp-default/members/single/settings/notifications.php:49
 msgid "Email Notification"
-msgstr ""
+msgstr "電子郵件通知"
 
 #: bp-members/bp-members-functions.php:927
 #: bp-members/bp-members-functions.php:1511
@@ -3091,23 +3091,23 @@ msgstr "群組列表 %1$s 至 %2$s (總共有 %3$s 個群組)"
 
 #: bp-members/bp-members-template.php:347
 msgid "Viewing member %1$s to %2$s (of %3$s active members)"
-msgstr "您正在看會員 %1$s 至 %2$s (總共有 %3$s 位活耀的會員)"
+msgstr "列出會員 %1$s 至 %2$s (總共有 %3$s 位活耀的會員)"
 
 #: bp-activity/bp-activity-template.php:536
 msgid "Viewing item %1$s to %2$s (of %3$s items)"
-msgstr "您正在看項目 %1$s 至 %2$s (總共有 %3$s 個項目)"
+msgstr "列出項目 %1$s 至 %2$s (總共有 %3$s 個項目)"
 
 #: bp-members/bp-members-template.php:349
 msgid "Viewing member %1$s to %2$s (of %3$s members with friends)"
-msgstr "您正在看會員 %1$s 至 %2$s (總共有 %3$s 位有朋友的會員)"
+msgstr "列出會員 %1$s 至 %2$s (總共有 %3$s 位有朋友的會員)"
 
 #: bp-members/bp-members-template.php:351
 msgid "Viewing member %1$s to %2$s (of %3$s members online)"
-msgstr "您正在看會員 %1$s 至 %2$s (總共有 %3$s 位會員剛好在線上)"
+msgstr "列出會員 %1$s 至 %2$s (總共有 %3$s 位會員剛好在線上)"
 
 #: bp-members/bp-members-template.php:353
 msgid "Viewing member %1$s to %2$s (of %3$s members)"
-msgstr "您正在看會員 %1$s 至 %2$s (總共有 %3$s 位會員)"
+msgstr "列出會員 %1$s 至 %2$s (總共有 %3$s 位會員)"
 
 #: bp-groups/bp-groups-notifications.php:139
 msgid ""
@@ -3220,7 +3220,7 @@ msgstr "\"%2$s\" 群組有 %1$d 個新的會員申請"
 
 #: bp-groups/bp-groups-actions.php:142
 msgid "%1$s created the group %2$s"
-msgstr "%1$s 開始了 %2$s 群組"
+msgstr "%1$s 建立名為 %2$s 的群組"
 
 #: bp-activity/bp-activity-notifications.php:214
 msgid ""
@@ -3442,12 +3442,12 @@ msgstr "頁"
 #: bp-core/admin/bp-core-components.php:26
 #: bp-core/admin/bp-core-functions.php:354
 msgid "Components"
-msgstr ""
+msgstr "元件"
 
 #: bp-core/admin/bp-core-functions.php:245 bp-core/admin/bp-core-slugs.php:134
 #: bp-members/bp-members-adminbar.php:60
 msgid "Register"
-msgstr ""
+msgstr "註冊"
 
 #: bp-core/admin/bp-core-components.php:363
 #: bp-friends/bp-friends-loader.php:24
@@ -6384,7 +6384,7 @@ msgstr "回覆"
 #: bp-templates/bp-legacy/buddypress/activity/index.php:59
 #: bp-themes/bp-default/activity/index.php:79
 msgid "Mentions"
-msgstr "提及"
+msgstr "提到我"
 
 #: bp-activity/bp-activity-actions.php:369
 msgid ""
@@ -6488,7 +6488,7 @@ msgstr "篩選"
 #: bp-themes/bp-default/registration/register.php:37
 #: bp-themes/bp-default/sidebar.php:44
 msgid "Username"
-msgstr "使用者名稱"
+msgstr "登入網站的名稱(英文/數字)"
 
 #: bp-core/admin/bp-core-components.php:148
 #: bp-core/admin/bp-core-components.php:156
