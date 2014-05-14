@@ -3,7 +3,7 @@ buddypress-zh_tw
 
 Buddypress 正體中文語言檔
 
-* 適用於 Buddypress 1.8.1
+* 適用於 Buddypress 2.0.1
 * http://buddypress.org/
 
 使用方法
